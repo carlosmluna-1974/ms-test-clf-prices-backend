@@ -31,3 +31,5 @@ Importar la coleccion PostMan adjunta por correo
       http://localhost:8081/api/prices/1
       API GET para consultar el repcio del prodcuto
       el servicio regresa el presio asociado al prodcuto
+
+Al ejecutar las APis se ejecutan lso Test, en el resultado existe una pestaña llamada Test ahi se ve el resultado de las pruebas
